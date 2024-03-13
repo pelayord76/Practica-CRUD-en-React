@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import { UserList } from "./components/UserList";
-import { UserCreate } from "./components/UserCreate";
+import  UserCreate  from "./components/UserCreate";
 import { UserUpdate } from "./components/UserUpdate";
 
 function App() {
